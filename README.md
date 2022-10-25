@@ -21,14 +21,15 @@ Youtube link: [link](link "Youtube")
 
 ### Electronic Bill Of Materials
 
-| Quantity | Component Name || Description of Component |
----|---|---
-| 1 | Arduino Uno R3 | A microcontroller board that will be used to handle input and output. |
-| 1 | Breadboard | Used as a hub to organize the wires, resistors, etc. |
-| 6 | Force Sensor | Sensor that will be used to detect and respond to pressure. |
-| 6 | Resistor | Used to increase or decrease the force sensor's sensing threshold. |
-| 1 | Joystick | Will be used to gather input for x and y axes. |
-| 38 | Male to Male Wire Connectors | Used to connect various electronic components to the breadboard and Uno. |
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><th>Quantity</th>           <th>Component Name</th>      <th>Description of Component</th></tr>
+  <tr><td>1</td>   <td>Arduino Uno R3</td>       <td>A microcontroller board that will be used to handle input and output.</td></tr>
+  <tr><td>1</td>   <td>Breadboard</td>       <td>Used as a hub to organize the wires, resistors, etc.</td></tr>
+  <tr><td>6</td>   <td>Force Sensor</td>       <td>Sensor that will be used to detect and respond to pressure.</td></tr>
+  <tr><td>6</td>   <td>Resistor</td>       <td>Used to increase or decrease the force sensor's sensing threshold.</td></tr>
+  <tr><td>1</td>   <td>Joystick</td>       <td>Will be used to gather input for x and y axes.</td></tr>
+  <tr><td>38</td>   <td>Male to Male Wire Connectors</td>       <td>Used to connect various electronic components to the breadboard and Uno.</td></tr>
+</table>
  
 
 ### Technical Drawings
