@@ -21,7 +21,7 @@ Youtube link: [link](link "Youtube")
 
 ### Circuitry Simulation
 
-Youtube link: [link](link "Youtube")
+Youtube link: [https://youtu.be/n8SsyYlPhw0](https://youtu.be/n8SsyYlPhw0 "Youtube")
 
 ### Electronic Bill Of Materials
 
