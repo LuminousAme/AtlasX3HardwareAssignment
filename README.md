@@ -19,6 +19,10 @@ Youtube link: [link](link "Youtube")
 ![Schematic1](Images/ElectronicSchematics.png)
 ![Schematic2](Images/ElectronicSchematics2.png)
 
+### Circuitry Simulation
+
+Youtube link: [link](link "Youtube")
+
 ### Electronic Bill Of Materials
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -35,8 +39,16 @@ Youtube link: [link](link "Youtube")
 ### Technical Drawings
 
 
-### Assembly And Exploded View
+### Assembly
 
+
+### Exploded View
+
+Youtube link: [link](link "Youtube")
 
 ### Bill Of Materials
 
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><th>Quantity</th>           <th>Component Name</th>      <th>Description of Component</th></tr>
+  <tr><td>1</td>   <td>Name</td>       <td>Description.</td></tr>
+</table>
