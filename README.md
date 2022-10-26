@@ -56,10 +56,10 @@ Youtube link: [https://youtu.be/pIpWyCpzBi4](https://youtu.be/pIpWyCpzBi4 "Youtu
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Item #</th>           <tr><th>Quantity</th>           <th>Name</th>                       <th>Description of Component</th></tr>
-  <tr><th>1</th>                <tr><th>1</th>           	<th>Shell</th>                      <th>Contains the main electronic components and allows the user to interact with it.</th></tr>
-  <tr><th>2</th>                <tr><th>1</th>           	<th>Base</th>                       <th>Will hold the joystick and allow the shell to slide.</th></tr>
-  <tr><th>3</th>                <tr><th>1</th>           	<th>Breadboard</th>                 <th>Used as a hub to connect and organize the wires, resistors, etc.</th></tr>
-  <tr><th>4</th>                <tr><th>1</th>           	<th>Joystick</th>                   <th>Will be used to gather input for x and y axes.</th></tr>
-  <tr><th>5</th>                <tr><th>1</th>           	<th>Arduino Uno R3</th>             <th>A microcontroller board that will be used to handle input and output.</th></tr>
-  <tr><th>6</th>                <tr><th>6</th>           	<th>Force Sensor</th>               <th>Sensor that will be used to detect and respond to pressure.</th></tr>
+  <tr><th>1</th>                <th>1</th>           	<th>Shell</th>                      <th>Contains the main electronic components and allows the user to interact with it.</th></tr>
+  <tr><th>2</th>                <th>1</th>           	<th>Base</th>                       <th>Will hold the joystick and allow the shell to slide.</th></tr>
+  <tr><th>3</th>                <th>1</th>           	<th>Breadboard</th>                 <th>Used as a hub to connect and organize the wires, resistors, etc.</th></tr>
+  <tr><th>4</th>                <th>1</th>           	<th>Joystick</th>                   <th>Will be used to gather input for x and y axes.</th></tr>
+  <tr><th>5</th>                <th>1</th>           	<th>Arduino Uno R3</th>             <th>A microcontroller board that will be used to handle input and output.</th></tr>
+  <tr><th>6</th>                <th>6</th>           	<th>Force Sensor</th>               <th>Sensor that will be used to detect and respond to pressure.</th></tr>
 </table>
