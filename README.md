@@ -50,7 +50,11 @@ Youtube link: [https://youtu.be/pIpWyCpzBi4](https://youtu.be/pIpWyCpzBi4 "Youtu
 
 ### Paper Prototype
 
-
+![PaperPrototype1](Images/PaperPrototype1.jpg)
+![PaperPrototype2](Images/PaperPrototype2.jpg)
+![PaperPrototype3](Images/PaperPrototype3.jpg)
+![PaperPrototype4](Images/PaperPrototype4.jpg)
+![PaperPrototype5](Images/PaperPrototype5.jpg)
 
 ### Bill Of Materials
 
