@@ -11,3 +11,7 @@ Ryan Sukhu 100600038
 # Assingment 1 Direct Link
 
 Assignment 1: [https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment1](https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment1 "Assignment 1 Branch")
+
+# Assingment 2 Direct Link
+
+Assignment 2: [https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment2](https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment2 "Assignment 2 Branch")
