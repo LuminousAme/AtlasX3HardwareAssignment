@@ -55,7 +55,7 @@ Youtube link: [https://youtu.be/pIpWyCpzBi4](https://youtu.be/pIpWyCpzBi4 "Youtu
 ### Bill Of Materials
 
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Item #</th>           <tr><th>Quantity</th>           <th>Name</th>                       <th>Description of Component</th></tr>
+  <tr><th>Item #</th>           <th>Quantity</th>           <th>Name</th>                       <th>Description of Component</th></tr>
   <tr><th>1</th>                <th>1</th>           	<th>Shell</th>                      <th>Contains the main electronic components and allows the user to interact with it.</th></tr>
   <tr><th>2</th>                <th>1</th>           	<th>Base</th>                       <th>Will hold the joystick and allow the shell to slide.</th></tr>
   <tr><th>3</th>                <th>1</th>           	<th>Breadboard</th>                 <th>Used as a hub to connect and organize the wires, resistors, etc.</th></tr>
