@@ -12,7 +12,7 @@ Ryan Sukhu 100600038
 The step file for the models we build is the "Foot Based Controller.step" file in this repo, the slide deck is in the "Video Overview Slide Deck.pdf" file, the video overview itself is linked below, as is a video of the circuitry simulation, and a video of the exploded view anmimation. Images for the circuitry diagram, technical drawing, assembly technical drawing, and paper prototype are all below, as can both bills of materials.
 
 ### Video Overview
-Youtube link: [link](link "Youtube")
+Youtube link: [https://youtu.be/_o6kCQCd-WQ](https://youtu.be/_o6kCQCd-WQ "Youtube")
 
 ### Electronic Schematics
 
