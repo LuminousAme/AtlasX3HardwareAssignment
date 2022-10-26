@@ -1,6 +1,6 @@
 # INFR 3380U - Industrial Design For Game Hardware
 
-#A Foot Based Game Controller by Atlas X 3
+# A Foot Based Game Controller by Atlas X 3
 
 Ame Gilham 100741352
 
