@@ -17,4 +17,4 @@ Assignment 1: [https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Ass
 Assignment 2: [https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment2](https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment2 "Assignment 2 Branch")
 
 # Assignment 3 Direct Link
-Assignment 3:
+Assignment 3: https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment3
