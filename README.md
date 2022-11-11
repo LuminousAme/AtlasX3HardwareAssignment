@@ -10,6 +10,6 @@ Ryan Sukhu 100600038
 
 # Interactive Scene
 
-Our current interactive scene is a simple red sphere that can be controlled by input from the joystick that is connected to the Arduino Board.
+Our current interactive scene is a simple red sphere that can be controlled by input from the joystick that is connected to the Arduino Board. The current goal is simply to move around and it's purpose is to show users that the current controller has functionality related to movement.
 
-In the future we are looking to make a simple platformer style game where the player will have to avoid eneemies and obstacles and make it to the end of the level.  
+In the future we are looking to make a simple platformer style game where the player will have to avoid enemies and obstacles and make it to the end of the level.  
