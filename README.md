@@ -31,7 +31,7 @@ Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtu
 
 # Fabrication Video
 
-Youtube link: [link](link "Youtube")
+Youtube link: [https://youtu.be/L0_laxKfPNk](https://youtu.be/L0_laxKfPNk "Youtube")
 
 # Interactive Scene And Electronics Integration
 
