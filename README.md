@@ -11,9 +11,11 @@ Ryan Sukhu 100600038
 # Information
 
 The slide deck for the video is in the "Video Overview Slide Deck.pdf" file, the video overview itself is linked below, 
-the slide deck for the iterative design is in the "Iteractive Design Slide Deck.pdf" file, the iterative design video itself 
+the slide deck for the iterative design is in the "Iterative Design Slides.pdf" file, the iterative design video itself 
 is also linked below, as are the fabrication, and electronic integration/interactive scene videos. The prototype images 
-are in the Images folder as well as below. Finally the description of the Interactive Scene as it is now
+are in the Images folder as well as below. The description of the Interactive Scene as it is now and the draft for what we will 
+make it later is below. And both the Unity files for the Interactive Scenes, and the Arduino code file in .ino format are including
+in the repos files.
 
 # Video Overview
 
@@ -21,7 +23,7 @@ Youtube link: [link](link "Youtube")
 
 # Iterative Design
 
-Youtube link: [link](link "Youtube")
+Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtube")
 
 # Prototype
 
