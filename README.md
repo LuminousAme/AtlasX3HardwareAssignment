@@ -32,6 +32,7 @@ Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtu
 ![Prototype3](Images/Prototype3.jpg)
 ![Prototype4](Images/Prototype4.jpg)
 ![Prototype5](Images/Prototype5.jpg)
+![Prototype6](Images/Prototype6.jpg)
 
 # Fabrication Video
 
