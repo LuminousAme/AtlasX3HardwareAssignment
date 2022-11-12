@@ -34,6 +34,10 @@ Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtu
 ![Prototype5](Images/Prototype5.jpg)
 ![Prototype6](Images/Prototype6.jpg)
 
+#Materials
+Our prototype is predominately made out of wood as it is stronger than 3D printed plastic making it more stable while supporting the weight of a user’s legs, and will allow us to build at the scale we need for a controller that users need to place both feet on (3D printing is too small for the scale of our controller). 
+
+
 # Fabrication Video
 
 Youtube link: [https://youtu.be/L0_laxKfPNk](https://youtu.be/L0_laxKfPNk "Youtube")
