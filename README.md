@@ -35,7 +35,7 @@ Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtu
 ![Prototype6](Images/Prototype6.jpg)
 
 # Materials
-Our prototype is predominately made out of wood as it is stronger than 3D printed plastic making it more stable while supporting the weight of a user’s legs, and will allow us to build at the scale we need for a controller that users need to place both feet on (3D printing is too small for the scale of our controller). To keep the wood prototype together we used Robertson head screws (square headed screws). We also plan on using 3D printed plastic for the joystick, but currently it is out of scope for this assignment. 
+Our prototype is predominately made out of wood as it is stronger than 3D printed plastic making it more stable while supporting the weight of a user’s legs, and will allow us to build at the scale we need for a controller that users need to place both feet on (3D printing is too small for the scale of our controller). To keep the wood prototype together we used Robertson head screws (square headed screws). We also plan on using 3D printed plastic for the attachedment that attaches the joystick to the top of the board, but currently it is out of scope for this assignment. 
 
 
 # Fabrication Video
