@@ -12,7 +12,7 @@ Ryan Sukhu 100600038
 
 The slide deck for the video is in the "Video Overview Slide Deck.pdf" file, the video overview itself is linked below, 
 the slide deck for the iterative design is in the "Iteractive Design Slide Deck.pdf" file, the iterative design video itself 
-is also linked below, as are the fabrication, slicer, and electronic integration/interactive scene videos. The prototype images 
+is also linked below, as are the fabrication, and electronic integration/interactive scene videos. The prototype images 
 are in the Images folder as well as below. Finally the description of the Interactive Scene as it is now
 
 # Video Overview
@@ -28,10 +28,6 @@ Youtube link: [link](link "Youtube")
 ![name](Images/filename.type)
 
 # Fabrication Video
-
-Youtube link: [link](link "Youtube")
-
-# Slicer Video
 
 Youtube link: [link](link "Youtube")
 
