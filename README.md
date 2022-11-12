@@ -35,7 +35,7 @@ Youtube link: [https://youtu.be/LjTvXzclJ8M](https://youtu.be/LjTvXzclJ8M "Youtu
 ![Prototype6](Images/Prototype6.jpg)
 
 # Materials
-Our prototype is predominately made out of wood as it is stronger than 3D printed plastic making it more stable while supporting the weight of a user’s legs, and will allow us to build at the scale we need for a controller that users need to place both feet on (3D printing is too small for the scale of our controller). 
+Our prototype is predominately made out of wood as it is stronger than 3D printed plastic making it more stable while supporting the weight of a user’s legs, and will allow us to build at the scale we need for a controller that users need to place both feet on (3D printing is too small for the scale of our controller). To keep the wood prototype together we used Robertson head screws (square headed screws).
 
 
 # Fabrication Video
@@ -47,7 +47,7 @@ Youtube link: [https://youtu.be/L0_laxKfPNk](https://youtu.be/L0_laxKfPNk "Youtu
 Our current interactive scene is a simple red box sprite that can be controlled by input from the joystick, and a green circle that appears when you press a button, both are connected to the Arduino Board. 
 The current goal is simply to move around and press the button, and it's purpose is to show users that the current controller has functionality for both button and joystick style input.
 
-Electronics Integration and Interactive Scene Video: [https://youtu.be/yzRvcNGCTug](https://youtu.be/yzRvcNGCTug "Youtube")
+Electronics Integration and Interactive Scene Video: [link](link "Youtube")
 
 In the future we will create a simple 2D platformer allowing the player to move left and right (sliding the board), and jump (button). The player will have to avoid 
 or destroy enemies, with enemies able to kill the player, and the player winning when they get through all of the enemies to the far right side of the level.
