@@ -39,6 +39,7 @@ public class ArduinoInput : MonoBehaviour
             Debug.Log("Disconnected");
         // process it
         if (InputSystem.instance != null) {
+            Debug.Log(message);
             string[] data = message.Split(' '); 
             for(int i = 0; i < data.Length; i++)
             {
@@ -62,8 +63,8 @@ public class ArduinoInput : MonoBehaviour
                     //get the index 
                     int index = int.Parse(data[i][1].ToString());
                     //get the input 
-                    int value = int.Parse(data[i][3].ToString());
-                    bool state = CheckInverseButton(index) ? value < 1 : value > 0;
+                    int value = int.Parse(data[i].Substring(3, data[i].Length-3));
+                    bool state = CheckInverseButton(index) ? value < 512 : value > 512;
                     InputSystem.instance.WriteButton(index, state);
                 }
             }
