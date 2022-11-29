@@ -29,7 +29,7 @@ Youtube link: [https://youtu.be/OlbZ55khb3U](https://youtu.be/OlbZ55khb3U "Youtu
 
 The following is our iterative design timeline
 
-![Timeline](Images/Iterative Design Timeline.PNG)
+![Timeline](Images/IterativeDesignTimeline.PNG)
 
 As you can see for the course project we had to abondon joystick input as our attempt
 to 3D print an attachment did not work as you can see in the image below, and while 
@@ -44,9 +44,9 @@ The result of our attempt to 3D print a ball joint attachment for the joystick
 
 The following is 3 photos of the final prototype
 
-![FinalPrototype1](Images/Final Prototype Image 1.jpg)
-![FinalPrototype2](Images/Final Prototype Image 2.jpg)
-![FinalPrototype3](Images/Final Prototype Image 3.jpg)
+![FinalPrototype1](Images/FinalPrototypeImage1.jpg)
+![FinalPrototype2](Images/FinalPrototypeImage2.jpg)
+![FinalPrototype3](Images/FinalPrototypeImage3.jpg)
 
 # Technical Drawings 
 
@@ -67,9 +67,9 @@ prototype, and after we put them into the prototype but before placing the board
 down and connecting the wires togther.
 
 ![OutOfPrototype](Images/WiringOutsideOfPrototype.jpg)
-![Internal Wiring 1](Images/Internal Wiring 1.jpg)
-![Internal Wiring 2](Images/Internal Wiring 2.jpg)
-![Internal Wiring 3](Images/Internal Wiring 3.jpg)
+![Internal Wiring 1](Images/InternalWiring1.jpg)
+![Internal Wiring 2](Images/InternalWiring2.jpg)
+![Internal Wiring 3](Images/InternalWiring3.jpg)
 
 # Usability and QFD 
 
@@ -85,21 +85,21 @@ both features ultimately became irrelevant when we had to abondon the joystick m
 3D printing, and wire disconnecting issues, but if we ever moved forward with the project they would
 be high priority features to implement. 
 
-![QFD 1](Images/QFD 1.PNG)
-![QFD 2](Images/QFD 2.PNG)
+![QFD 1](Images/QFD1.PNG)
+![QFD 2](Images/QFD2.PNG)
 
 For our system usability scale (SUS), of the 8 people who filled out the survey, all but one 
 outlier had a score of 70 or above, with the average of all the scores being 78.4375, a result
 which indicates that people overall found our controller very usable.
 
-![SUS 1](Images/SUS 1.PNG)
+![SUS 1](Images/SUS1.PNG)
 
 However we did note that the answers to question 1 in particular varied a lot, meaning our respondants
 weren't sure if they'd use the device regularly even if it was a relatively simple and inituative to 
 use, we believe this may have been because our respondants were all people with full use of both hands
 and not our primary target audience.
 
-![SUS 2](Images/SUS 2.PNG)
+![SUS 2](Images/SUS2.PNG)
 
 
 
