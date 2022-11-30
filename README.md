@@ -25,7 +25,11 @@ Youtube link: [https://youtu.be/FyFwKgWzuII](https://youtu.be/FyFwKgWzuII "Youtu
 
 Youtube link: [https://youtu.be/OlbZ55khb3U](https://youtu.be/OlbZ55khb3U "Youtube")
 
-# Timeline
+# Process and Timeline
+
+This is our process flowchart
+
+![ProcessFlowChart](Images/ProcessFlowchart.png)
 
 The following is our iterative design timeline
 
