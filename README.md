@@ -14,7 +14,7 @@ The slide deck for the video is in the "Video Presentation Slide Deck.pdf" file,
 as is the video of the demo and interactive scene integration. Both the Unity files for the interactive scene, 
 and the Arduino code file in .ino format are including in the repos files. As is the gcode file for our failed
 3D print. Images of the the final prototype, electronics integration, timeline, and the technical drawings are 
-both below and in the images folder. The report can be found in the IEEE Written Report.pdf file. Finally a 
+both below and in the images folder. The report can be found in the "IEEE Written Report.pdf" file. Finally a 
 short summary of the usability and QFD can also be found below.
 
 # Video Presentation
@@ -70,6 +70,24 @@ down and connecting the wires togther.
 ![Internal Wiring 1](Images/InternalWiring1.jpg)
 ![Internal Wiring 2](Images/InternalWiring2.jpg)
 ![Internal Wiring 3](Images/InternalWiring3.jpg)
+
+And finally the following is the bill of materials
+
+### Electronic Bill Of Materials
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><th>Quantity</th>           <th>Component Name</th>                       <th>Description of Component</th></tr>
+  <tr><td>1</td>   		  <td>Arduino Uno R3</td>                       <td>A microcontroller board that will be used to handle input and output.</td></tr>
+  <tr><td>1</td>   		  <td>Breadboard</td>       	                <td>Used as a hub to organize the wires, resistors, etc.</td></tr>
+  <tr><td>2</td>   		  <td>Force Sensor</td>               		<td>Sensor that will be used to detect and respond to pressure, acting as a button.</td></tr>
+  <tr><td>2</td>   		  <td>10k Ohm Resistor</td>                   	<td>Used to apply resistance to the force sensors.</td></tr>
+  <tr><td>1</td>   		  <td>Red LED</td>                              <td>Used to show that the controller has power by lighting up.</td></tr>
+  <tr><td>1</td>   		  <td>Green LED</td>                            <td>Used to show that the left force sensor button is being pressed by lighting up.</td></tr>
+  <tr><td>1</td>   		  <td>Blue LED</td>                             <td>Used to show that the right force sensor button is being pressed by lighting up.</td></tr>
+  <tr><td>3</td>   		  <td>330 Ohm Resistor</td>                   	<td>Used to apply resistance to the LEDs.</td></tr>
+  <tr><td>1</td>                  <td>Joystick</td>                   		<td>We tried to use this for sliding board motion but were unable to implement it though it is still physically there</td></tr>
+  <tr><td>24</td>                 <td>Wire chains</td>       			<td>Used to connect various electronic components to the breadboard and Uno. (Based on number of physical chains not tinkercad)</td></tr>
+</table>
 
 # Usability and QFD 
 
