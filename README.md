@@ -18,3 +18,6 @@ Assignment 2: [https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Ass
 
 # Assignment 3 Direct Link
 Assignment 3: https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/Assignment3
+
+# Course Project Direct Link
+Course Project: https://github.com/LuminousAme/AtlasX3HardwareAssignment/tree/CourseProject
