@@ -74,28 +74,28 @@ The exploded view animation can be viewed at this link: [https://youtu.be/h6Tuen
 Finally this is the bill of materials
 
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Item</th>  	        <tr><th>Quantity</th>             <th>Component Name</th>                       <th>Material</th></tr>
-  <tr><td>1</td> 		<tr><td>1</td>   		  <td>Arduino Uno R3</td>                       <td>Circuit Board.</td></tr>
-  <tr><td>2</td> 		<tr><td>1</td>   		  <td>Breadboard</td>                           <td>Plastic.</td></tr>
-  <tr><td>3</td> 		<tr><td>1</td>   		  <td>Joystick</td>                       	<td>Rubber.</td></tr>
-  <tr><td>4</td> 		<tr><td>1</td>   		  <td>Rear Barrier</td>                         <td>Pine Wood.</td></tr>
-  <tr><td>5</td> 		<tr><td>1</td>   		  <td>Left Wall</td>                         	<td>Pine Wood.</td></tr>
-  <tr><td>6</td> 		<tr><td>1</td>   		  <td>Left Barrier</td>                         <td>Pine Wood.</td></tr>
-  <tr><td>7</td> 		<tr><td>1</td>   		  <td>Board</td>                         	<td>MDF Board.</td></tr>
-  <tr><td>8</td> 		<tr><td>1</td>   		  <td>Rear Overhang</td>                        <td>MDF Board.</td></tr>
-  <tr><td>9</td> 		<tr><td>1</td>   		  <td>Left Overhang</td>                        <td>MDF Board.</td></tr>
-  <tr><td>10</td> 		<tr><td>2</td>   		  <td>Force Sensor</td>                         <td>Metal and Plastic.</td></tr>
-  <tr><td>11</td> 		<tr><td>1</td>   		  <td>Green LED</td>				<td>Metal and Plastic.</td></tr>
-  <tr><td>12</td> 		<tr><td>1</td>   		  <td>Red LED</td>				<td>Metal and Plastic.</td></tr>
-  <tr><td>13</td> 		<tr><td>1</td>   		  <td>Blue LED</td>				<td>Metal and Plastic.</td></tr>
-  <tr><td>14</td> 		<tr><td>1</td>   		  <td>Front Overhang</td>			<td>MDF Board.</td></tr>
-  <tr><td>15</td> 		<tr><td>1</td>   		  <td>Right Overhang</td>			<td>MDF Board.</td></tr>
-  <tr><td>16</td> 		<tr><td>1</td>   		  <td>Front Barrier</td>			<td>Pine Wood.</td></tr>
-  <tr><td>17</td> 		<tr><td>1</td>   		  <td>Right Barrier</td>			<td>Pine Wood.</td></tr>
-  <tr><td>18</td> 		<tr><td>1</td>   		  <td>Middle Board</td>				<td>MDF Board.</td></tr>
-  <tr><td>19</td> 		<tr><td>1</td>   		  <td>Right Wall</td>				<td>Pine Wood.</td></tr>
-  <tr><td>20</td> 		<tr><td>1</td>   		  <td>Bottom Board</td>				<td>MDF Board.</td></tr>
-  <tr><td>21</td> 		<tr><td>24</td>   		  <td>Screw</td>				<td>Steel.</td></tr>
+  <tr><th>Item</th>  	        <th>Quantity</th>             <th>Component Name</th>                       <th>Material</th></tr>
+  <tr><td>1</td> 		<td>1</td>   		  <td>Arduino Uno R3</td>                       <td>Circuit Board.</td></tr>
+  <tr><td>2</td> 		<td>1</td>   		  <td>Breadboard</td>                           <td>Plastic.</td></tr>
+  <tr><td>3</td> 		<td>1</td>   		  <td>Joystick</td>                       	<td>Rubber.</td></tr>
+  <tr><td>4</td> 		<td>1</td>   		  <td>Rear Barrier</td>                         <td>Pine Wood.</td></tr>
+  <tr><td>5</td> 		<td>1</td>   		  <td>Left Wall</td>                         	<td>Pine Wood.</td></tr>
+  <tr><td>6</td> 		<td>1</td>   		  <td>Left Barrier</td>                         <td>Pine Wood.</td></tr>
+  <tr><td>7</td> 		<td>1</td>   		  <td>Board</td>                         	<td>MDF Board.</td></tr>
+  <tr><td>8</td> 		<td>1</td>   		  <td>Rear Overhang</td>                        <td>MDF Board.</td></tr>
+  <tr><td>9</td> 		<td>1</td>   		  <td>Left Overhang</td>                        <td>MDF Board.</td></tr>
+  <tr><td>10</td> 		<td>2</td>   		  <td>Force Sensor</td>                         <td>Metal and Plastic.</td></tr>
+  <tr><td>11</td> 		<td>1</td>   		  <td>Green LED</td>				<td>Metal and Plastic.</td></tr>
+  <tr><td>12</td> 		<td>1</td>   		  <td>Red LED</td>				<td>Metal and Plastic.</td></tr>
+  <tr><td>13</td> 		<td>1</td>   		  <td>Blue LED</td>				<td>Metal and Plastic.</td></tr>
+  <tr><td>14</td> 		<td>1</td>   		  <td>Front Overhang</td>			<td>MDF Board.</td></tr>
+  <tr><td>15</td> 		<td>1</td>   		  <td>Right Overhang</td>			<td>MDF Board.</td></tr>
+  <tr><td>16</td> 		<td>1</td>   		  <td>Front Barrier</td>			<td>Pine Wood.</td></tr>
+  <tr><td>17</td> 		<td>1</td>   		  <td>Right Barrier</td>			<td>Pine Wood.</td></tr>
+  <tr><td>18</td> 		<td>1</td>   		  <td>Middle Board</td>				<td>MDF Board.</td></tr>
+  <tr><td>19</td> 		<td>1</td>   		  <td>Right Wall</td>				<td>Pine Wood.</td></tr>
+  <tr><td>20</td> 		<td>1</td>   		  <td>Bottom Board</td>				<td>MDF Board.</td></tr>
+  <tr><td>21</td> 		<td>24</td>   		  <td>Screw</td>				<td>Steel.</td></tr>
 </table>
 
 # Electronics
