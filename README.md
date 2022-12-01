@@ -54,7 +54,22 @@ The following is 3 photos of the final prototype
 
 # Technical Drawings 
 
+The following are the technical drawings for indivual parts
 
+![TechicalDrawing1](Images/BarrierPartDrawingv1-1.png)
+![TechicalDrawing2](Images/BaseWallPartDrawingv1-1.png)
+![TechicalDrawing3](Images/BottomBasePartDrawingv1-1.png)
+![TechicalDrawing4](Images/Front&RearOverhangPartDrawingv1-1.png)
+![TechicalDrawing5](Images/MainBoardPartDrawingv1-1.png)
+![TechicalDrawing6](Images/MiddleBasePartDrawingv1-1.png)
+![TechicalDrawing7](Images/SideOverhangPartDrawingv1-1.png)
+
+The following are the assembly technical drawings
+
+![Assembly1](Images/FinalDesignExplodedViewDrawingv1-1.png)
+![Assembly2](Images/FootControllerFullAssemblyDrawingv1-1.png)
+
+Finally the exploded view animation can be viewed at this link: [https://youtu.be/h6TuenkW1JA](https://youtu.be/h6TuenkW1JA "Youtube")
 
 # Electronics
 
